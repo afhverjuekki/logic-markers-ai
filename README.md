@@ -50,6 +50,11 @@ The workflow consists of two main steps:
   ```
    This creates `scene_markers.wav` in the `scene_output` directory.
 
+
+4.  **Import Markers into Logic Pro:** Open your Logic Pro project, then navigate to `Navigate > Other > Import Marker from Audio File` and select the generated `scene_markers.wav` file. [Source](https://support.apple.com/en-is/guide/logicpro/lgcpadb63ff8/mac)
+
+![Logic](logic.jpg)
+
 ## Prerequisites
 
 *   Python 3.x
